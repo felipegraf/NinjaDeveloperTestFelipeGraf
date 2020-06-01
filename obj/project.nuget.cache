@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b1W3pNErRWSrQA82lleTq0SgTovS+hFdixLiwkgKmvQrAyf476SmGjB8m2BxBE+1kYz2fkH2Ta7NIyx18YJt0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\felipegraf\\source\\repos\\NinjaDeveloperTestFelipeGraf\\NinjaDeveloperTestFelipeGraf\\NinjaDeveloperTestFelipeGraf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felipegraf\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\felipegraf\source\repos\NinjaDeveloperTestFelipeGraf\NinjaDeveloperTestFelipeGraf\bin\Debug\netcoreapp3.1\NinjaDeveloperTestFelipeGraf.exe
+C:\Users\felipegraf\source\repos\NinjaDeveloperTestFelipeGraf\NinjaDeveloperTestFelipeGraf\bin\Debug\netcoreapp3.1\NinjaDeveloperTestFelipeGraf.deps.json
+C:\Users\felipegraf\source\repos\NinjaDeveloperTestFelipeGraf\NinjaDeveloperTestFelipeGraf\bin\Debug\netcoreapp3.1\NinjaDeveloperTestFelipeGraf.runtimeconfig.json
+C:\Users\felipegraf\source\repos\NinjaDeveloperTestFelipeGraf\NinjaDeveloperTestFelipeGraf\bin\Debug\netcoreapp3.1\NinjaDeveloperTestFelipeGraf.runtimeconfig.dev.json
+C:\Users\felipegraf\source\repos\NinjaDeveloperTestFelipeGraf\NinjaDeveloperTestFelipeGraf\bin\Debug\netcoreapp3.1\NinjaDeveloperTestFelipeGraf.dll
+C:\Users\felipegraf\source\repos\NinjaDeveloperTestFelipeGraf\NinjaDeveloperTestFelipeGraf\bin\Debug\netcoreapp3.1\NinjaDeveloperTestFelipeGraf.pdb
+C:\Users\felipegraf\source\repos\NinjaDeveloperTestFelipeGraf\NinjaDeveloperTestFelipeGraf\obj\Debug\netcoreapp3.1\NinjaDeveloperTestFelipeGraf.csprojAssemblyReference.cache
+C:\Users\felipegraf\source\repos\NinjaDeveloperTestFelipeGraf\NinjaDeveloperTestFelipeGraf\obj\Debug\netcoreapp3.1\NinjaDeveloperTestFelipeGraf.AssemblyInfoInputs.cache
+C:\Users\felipegraf\source\repos\NinjaDeveloperTestFelipeGraf\NinjaDeveloperTestFelipeGraf\obj\Debug\netcoreapp3.1\NinjaDeveloperTestFelipeGraf.AssemblyInfo.cs
+C:\Users\felipegraf\source\repos\NinjaDeveloperTestFelipeGraf\NinjaDeveloperTestFelipeGraf\obj\Debug\netcoreapp3.1\NinjaDeveloperTestFelipeGraf.csproj.CoreCompileInputs.cache
+C:\Users\felipegraf\source\repos\NinjaDeveloperTestFelipeGraf\NinjaDeveloperTestFelipeGraf\obj\Debug\netcoreapp3.1\NinjaDeveloperTestFelipeGraf.dll
+C:\Users\felipegraf\source\repos\NinjaDeveloperTestFelipeGraf\NinjaDeveloperTestFelipeGraf\obj\Debug\netcoreapp3.1\NinjaDeveloperTestFelipeGraf.pdb
+C:\Users\felipegraf\source\repos\NinjaDeveloperTestFelipeGraf\NinjaDeveloperTestFelipeGraf\obj\Debug\netcoreapp3.1\NinjaDeveloperTestFelipeGraf.genruntimeconfig.cache
